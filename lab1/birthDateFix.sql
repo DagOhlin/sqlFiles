@@ -1,0 +1,2 @@
+ALTER TABLE Customer 
+MODIFY COLUMN BirthDate DATE;

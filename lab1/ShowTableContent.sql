@@ -1,3 +1,3 @@
 USE carRental;
 
-SELECT * FROM Bookings;
+SELECT * FROM Cars;
