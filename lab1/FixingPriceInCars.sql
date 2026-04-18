@@ -1,0 +1,2 @@
+USE carRental; 
+ALTER TABLE Cars MODIFY COLUMN PricePerDay INT;
